@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Iqbal Rosyid 👋
 
-<!--
-**arrosyid/arrosyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate Web Programmer with a strong background in developing responsive and efficient websites and applications.  
+Currently, I'm focusing on enhancing my skills in back-end programming to deliver even more robust IT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Experienced in PHP, Laravel, CodeIgniter, and MySQL
+- 🌱 Currently explore Node.js and Express.js to expand my back-end development expertise
+- 🤝 Strong in communication, collaboration, and delivering clean, maintainable code
+- ⚡ Always eager to learn new technologies and best practices in web development
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP (Laravel 11, CodeIgniter 3), Node.js, Express.js
+- **Database:** MySQL
+- **Tools:** Git, Postman
+
+## 📚 Currently Learning
+- Deepening knowledge in Node.js and Express.js
+- Exploring best practices in RESTful API development
+- Improving back-end architecture and scalability
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arrosyid&show_icons=true&theme=default" alt="Arrosyid's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrosyid&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+## 📫 How to Reach Me
+- LinkedIn: [iqbal-ocid](https://linkedin.com/in/iqbal-ocid)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+Thank you for visiting!  
+Let's connect and collaborate 🚀
+
