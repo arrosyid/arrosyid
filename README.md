@@ -17,22 +17,17 @@ Currently, I'm focusing on enhancing my skills in back-end programming to delive
 - **Database:** MySQL
 - **Tools:** Git, Postman
 
-## 📚 Currently Learning
-- Deepening knowledge in Node.js and Express.js
-- Exploring best practices in RESTful API development
-- Improving back-end architecture and scalability
-
 ## 📈 GitHub Stats
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=arrosyid&show_icons=true&theme=default" alt="Arrosyid's GitHub stats" />
-</p>
+</p> -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrosyid&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ## 📫 How to Reach Me
 - LinkedIn: [iqbal-ocid](https://linkedin.com/in/iqbal-ocid)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [iqbal.rosyidi.32@gmail.com](mailto:iqbal.rosyidi.32@gmail.com)
 
 ---
 
