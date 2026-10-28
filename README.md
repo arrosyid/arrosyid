@@ -1,4 +1,4 @@
-# Hi there, I'm Iqbal Rosyid 👋
+# Hi there, I'm Iqbal Rosyidi 👋
 
 Welcome to my GitHub profile!
 
